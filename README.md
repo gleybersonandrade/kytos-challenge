@@ -4,7 +4,7 @@ Parser to OpenFlow messages.
 
 ## Authors
 
-* **Gleyberson Andrade** - [gleybersonandrade](https://github.com/gleyberson    andrade)
+* **Gleyberson Andrade** - [gleybersonandrade](https://github.com/gleybersonandrade)
 
 ## License
 
